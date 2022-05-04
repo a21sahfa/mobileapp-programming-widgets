@@ -31,6 +31,7 @@
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="137dp"
         tools:layout_editor_absoluteY="223dp"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@tools:sample/avatars"
+        android:src="@drawable/dog"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
