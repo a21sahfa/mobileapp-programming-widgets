@@ -3,6 +3,10 @@
 
 **Skriv din rapport här!**
 
+jag började med att forka appen widgets från min github.
+jag la till en button och en bild, button och en textview
+
+
 _Du kan ta bort all text som finns sedan tidigare_.
 
 ## Följande grundsyn gäller dugga-svar:
